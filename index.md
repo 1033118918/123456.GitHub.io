@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/1033118918/username.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 个人简历
+### 联系方式
+- 有需要请来往生堂
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人信息
+ - 姓名：胡桃
+ - 性别：女
+ - 出生地：璃月
 
-### Markdown
+### 工作经历
+#### 往生堂第七十七代堂主
+**项目描述**
+该项目主要是掌控着璃月葬仪事务，尽心尽力地为人们完成送别之仪，维护着世间阴阳平衡之道。
+**职责描述**
+受人之托，忠人之事，往生堂性质特殊，因此肩负着双份的责任，必须要让两个世界的人都满意才行。
+无论何时何地、有何原因，人都不应该轻易挑衅“死”之一事，唯有认识它、尊重它，才能明白活着的价值。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1033118918/username.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### 诗歌创作
+**主要成就**
+ 1.小巷派暗黑诗人
+ 2.《丘丘谣》
+ 3.《璃月闲话》和《柴米油盐》（尚未发行）
+ 
