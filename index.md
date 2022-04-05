@@ -2,6 +2,9 @@
 ## 个人简历
 ### 工作地点
 - 往生堂
+- 专业团队，值得信赖！
+- ![image](https://user-images.githubusercontent.com/102969325/161675739-2a585f3e-9360-420a-9660-82d5c7c2458b.png)
+- ![image](https://user-images.githubusercontent.com/102969325/161675801-1858b8f3-c9ce-4f73-a963-ad5753860c63.png)
 
 ### 个人信息
  - 姓名：胡桃                                   
