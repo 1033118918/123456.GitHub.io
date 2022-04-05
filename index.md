@@ -1,12 +1,14 @@
 
 ## 个人简历
-### 联系方式
-- 有需要请来往生堂
+### 工作地点
+- 往生堂
 
 ### 个人信息
- - 姓名：胡桃
+ - 姓名：胡桃                                   
  - 性别：女
  - 出生地：璃月
+ - ![image](https://user-images.githubusercontent.com/102969325/161671370-395a368d-5de5-467d-8e57-6f41f54f8ae6.png)
+ - ![image](https://user-images.githubusercontent.com/102969325/161671703-28297027-286e-4ec9-a112-7c3b1bea389e.png)
 
 ### 工作经历
 #### 往生堂第七十七代堂主
